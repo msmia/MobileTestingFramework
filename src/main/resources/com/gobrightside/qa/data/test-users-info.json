@@ -1,0 +1,47 @@
+[
+  {
+    "guid": "b32e292c-98f2-4715-b78f-30f918fba85f",
+    "firstName": "theodore",
+    "lastName": "adamswarren",
+    "ssn": "6564",
+    "email": "test@test.com",
+    "birthDay": "1948-09-28",
+    "address": {
+      "mailingAddress1": "100 Ocean Pkwy",
+      "mailingCity": "Brooklyn",
+      "mailingState": "NY",
+      "mailingZip": "11218"
+    },
+    "phone": "2626226511"
+  },
+  {
+    "guid": "a3052aca-f227-45ff-b415-983ed9aaccc2",
+    "firstName": "Grover",
+    "lastName": "Buchananjimmy",
+    "ssn": "5413",
+    "email": "test@test.com",
+    "birthDay": "1950-09-03",
+    "address": {
+      "mailingAddress1": "100 Ocean Pkwy",
+      "mailingCity": "Brooklyn",
+      "mailingState": "NY",
+      "mailingZip": "11218"
+    },
+    "phone": "3472607943"
+  },
+  {
+    "guid": "9f6f10a7-c3b7-441e-be99-0c42807357de",
+    "firstName": "Benjamin",
+    "lastName": "Polkjimmy",
+    "ssn": "0144",
+    "email": "test@test.com",
+    "birthDay": "1950-09-03",
+    "address": {
+      "mailingAddress1": "100 Ocean Pkwy",
+      "mailingCity": "Brooklyn",
+      "mailingState": "NY",
+      "mailingZip": "11218"
+    },
+    "phone": "7746130884"
+  }
+]

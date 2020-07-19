@@ -1,0 +1,15 @@
+{
+  "user1" : 
+  {
+    "firstName" : "Benjamin",
+    "lastName" : "Polkjimmy",
+    "ssn" : "0144",
+    "email" : "test@test.com",	
+    "birthDay" : "1950-09-03",
+    "mailingAddress1":"100 Ocean Pkwy",
+    "mailingCity":"Brooklyn",
+    "mailingState":"NY",
+    "mailingZip":"11218",
+    "phone":"7746130884"
+  }
+}

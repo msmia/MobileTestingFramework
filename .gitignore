@@ -1,0 +1,25 @@
+# Eclipse
+target
+
+# Mac
+.DS_Store
+.iml
+test-output
+workspace.xml
+usage.statistics.xml
+tasks.xml
+
+#=======
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings
+.loadpath
+.classpath
+.project
+.recommenders
