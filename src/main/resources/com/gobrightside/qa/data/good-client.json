@@ -3,9 +3,9 @@
   {
     "firstName" : "Benjamin",
     "lastName" : "Polkjimmy",
-    "ssn" : "0144",
+    "ssn" : "0000",
     "email" : "test@test.com",	
-    "birthDay" : "1950-09-03",
+    "birthDay" : "1900-00-00",
     "mailingAddress1":"100 Ocean Pkwy",
     "mailingCity":"Brooklyn",
     "mailingState":"NY",
