@@ -3,7 +3,7 @@ target
 
 # Mac
 *.DS_Store
-_DS_Store
+*_DS_Store
 .iml
 test-output
 workspace.xml
