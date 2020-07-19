@@ -2,7 +2,7 @@
 target
 
 # Mac
-.DS_Store
+*.DS_Store
 .iml
 test-output
 workspace.xml
